@@ -12,7 +12,7 @@ The project can be downloaded, installed, and run locally on your personal lapto
 
 After successfully install dependencies, you can run the code directly locally via the command npm start  in the both Backend and my-app folder which will run a developement server on your local pc.
 
-The project documentation you can find below link and also upload in the main directory.
+The project documentation you can find below link and also upload in the main directory
 https://drive.google.com/file/d/1twVq7uTNfJTFLME4OG7tUcRj2oVJ5eX2/view?usp=sharing
 
 Contact: For any inquiries or assistance, feel free to contact the project maintainer at 
